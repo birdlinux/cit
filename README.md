@@ -14,7 +14,7 @@
 | :---: | :-----: | :------------: |
 |  CIT  | Wrapper | 13th June 2023 |
 
-[Description](#Description) - [Philosophy](#Philosophy) - [Installation](#Installation)
+[Description](#Description) - [Philosophy](#Philosophy) - [Installation](#Installation) - [Contribute](#Contribute)
 
 </div>
   
@@ -62,7 +62,7 @@ At the core of CIT's philosophy is a commitment to simplicity. The tool boasts a
 <center> <h1 id="Contribute" align="center" >Contribute</h1> </center>
 <center><p align="center">
 We welcome contributions from the community to help make this project even better. Below, you will find guidelines on how to contribute by creating a new branch and submitting your changes for review.
-Getting Started</p></center><br />
+Getting Started</p></center>
 
 <center><h3><p align="center">
 To get started with contributing, please follow these steps:
